@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on a project in data science
 - 📫 How to reach me salmaakhrif6@gmail.com
 - 😄 Pronouns: salma
-- ⚡ Fun fact: I am funny with my friends only hhh
 
 <!---
 salma-akhrif/salma-akhrif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
